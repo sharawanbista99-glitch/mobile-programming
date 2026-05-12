@@ -24,6 +24,6 @@
       }
 
       document.getElementById("result").innerHTML =
-        "Result: " + Result;
+        "Result: " + result;
     }
     
